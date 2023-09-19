@@ -3,8 +3,5 @@ steps:
     casApiServiceKeyCredentialsId: casApiServiceKeyCredentialsId
     integrationPackageId: Integrationsuitetrialexperience123
     resourceID: d9c3fe08ceeb47a2991e53049f2ed766
-    name: Integrationsuitetrialexperiencesteps:
-  integrationArtifactTransport:
-    casApiServiceKeyCredentialsId: casApiServiceKeyCredentialsId
-    integrationPackageId: Integrationsuitetrialexperience
+    name: Integrationsuitetrialexperience
     version: 1.0.0
